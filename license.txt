@@ -1,0 +1,11 @@
+Model Information:
+* title:	Underwater Ruin
+* source:	https://sketchfab.com/3d-models/underwater-ruin-beae50562ef44330b0ac1dfa3dcb6483
+* author:	Stefan William Rudebjer (https://sketchfab.com/stefan_wr)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Underwater Ruin" (https://sketchfab.com/3d-models/underwater-ruin-beae50562ef44330b0ac1dfa3dcb6483) by Stefan William Rudebjer (https://sketchfab.com/stefan_wr) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
